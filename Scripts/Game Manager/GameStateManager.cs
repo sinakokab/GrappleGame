@@ -29,7 +29,7 @@ public class GameStateManager : MonoBehaviour {
 
     public Animator TutorialAnim;
 
-    string gameId = "3596075";
+    string gameId = "";
     bool testMode = true;
 
 
